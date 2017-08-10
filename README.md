@@ -1,3 +1,3 @@
 # sampleProject1
-#Real madrid is not better than Barcelona
-# Neymar < Messi
+# This is a test Project
+# GitHub is connected to eclipse
