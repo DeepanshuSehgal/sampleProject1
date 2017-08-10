@@ -1,3 +1,3 @@
 # sampleProject1
-#Real madrid is better than Barcelona
-# Neymar > Messi
+#Real madrid is not better than Barcelona
+# Neymar < Messi
